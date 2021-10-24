@@ -1,0 +1,26 @@
+
+  "BigQuery Schema": [
+    {
+      "name": "metascore",
+      "type": "STRING"
+    },
+    {
+      "name": "name",
+      "type": "STRING"
+    },
+    {
+      "name": "console",
+      "type": "STRING"
+    },
+    {
+      "name": "userscore",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "date",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    }
+  ]
+}
