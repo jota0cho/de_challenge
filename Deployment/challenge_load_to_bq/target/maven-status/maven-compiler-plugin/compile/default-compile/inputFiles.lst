@@ -1,0 +1,12 @@
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/exception/ProcessException.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/adapter/StreamGobbler.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/exception/BigQueryOperatorException.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/port/IProcessManager.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/exception/ParserException.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/adapter/BigQueryOperator.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/model/BigQueryConfiguration.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/App.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/port/IBigQueryOperator.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/adapter/ProcessManager.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/model/ResponseProcessManager.java
+/Users/juancordova/Desktop/Proyectos/wall/challenge_load_to_bq/src/main/java/com/challenge/fund/service/LoadCsvService.java
