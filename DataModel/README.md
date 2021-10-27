@@ -1,6 +1,18 @@
 ###The top 10 best games for each console/company.
 
 ```
+
+```
+
+###The worst 10 games for each console/company.
+
+```
+
+```
+
+###The top 10 best games for all consoles.
+
+```
 WITH
 con AS (  SELECT *
 from "#PROJECTID.challenge.consoles")
@@ -17,8 +29,8 @@ order by metascore desc
 limit 10
 ```
 
+###The worst 10 games for all consoles.
 
-###The worst 10 games for each console/company.
 
 ```
 WITH
